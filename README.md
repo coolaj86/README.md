@@ -18,5 +18,7 @@ My values:
 - Avoid Hasty Abstractions
 - Flat is better than nested
 - In the face of ambiguity, refuse the temptation to guess
-- Prefer native / standard library / built-in solutions unless you have a really good reason not to
+- Prefer native / standard library / built-in solutions unless you have a really good reason not to (ex: `<input type="datetime-local">`)
+- If there's an existing standard, at least consider it
 - Saving a few keystrokes is never worth it
+- "If it's a core business function — do it yourself, no matter what" - [Joel Spolsky](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/)
